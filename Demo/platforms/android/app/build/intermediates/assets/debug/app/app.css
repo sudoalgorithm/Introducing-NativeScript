@@ -1,0 +1,16 @@
+﻿@import '~nativescript-theme-core/css/core.light.css';
+
+#txtKeyword{
+    width: 90%;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+#btnSearch{
+    width: 90%;
+    height: 150px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+

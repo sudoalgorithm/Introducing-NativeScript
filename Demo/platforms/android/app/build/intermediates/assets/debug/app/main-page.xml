@@ -1,0 +1,21 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo" class="page" loaded="pageLoaded" background-color="blue">
+    <Page.actionBar>
+        <ActionBar title="Demo App" icon="" class="action-bar">
+        </ActionBar>
+    </Page.actionBar>
+
+    <StackLayout orientation="vertical">
+
+            <TextField text="{{txtKeyword}}"  hint="What's On Your" id="txtKeyword" />
+
+            <Button text="Search" id="btnSearch" tap="signin"/>
+
+            <ListView style="margin-top:50px;" items="{{ images }}">
+                <ListView.itemTemplate>
+
+                    <Image stretch="fill" height="2000px" src="{{img}}" />
+
+                </ListView.itemTemplate>
+            </ListView>
+        </StackLayout>
+</Page>

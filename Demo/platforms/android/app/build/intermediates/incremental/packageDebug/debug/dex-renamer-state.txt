@@ -1,0 +1,4 @@
+#Wed May 02 15:11:09 GST 2018
+base.0=/Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

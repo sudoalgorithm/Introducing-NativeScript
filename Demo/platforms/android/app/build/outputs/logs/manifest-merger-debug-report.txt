@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/59f44287e7452c98e5bcf18e76a25779/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:17:1-31:12
+MERGED from [:nativescript-optimized:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/296b82e00162ddade108e5cfeec737be/AndroidManifest.xml:2:1-11:12
+MERGED from [:widgets-release:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b5b28652043692fc51677ea092a09186/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d35a66728fe17b34126c7085fc711a11/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:3:2-33
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:multidex:1.0.2] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/59f44287e7452c98e5bcf18e76a25779/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/59f44287e7452c98e5bcf18e76a25779/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:21:5-23:54
+MERGED from [:nativescript-optimized:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/296b82e00162ddade108e5cfeec737be/AndroidManifest.xml:7:5-9:41
+MERGED from [:nativescript-optimized:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/nativescript-optimized.aar/296b82e00162ddade108e5cfeec737be/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b5b28652043692fc51677ea092a09186/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b5b28652043692fc51677ea092a09186/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d35a66728fe17b34126c7085fc711a11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d35a66728fe17b34126c7085fc711a11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:29:5-20
+MERGED from [:widgets-release:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b5b28652043692fc51677ea092a09186/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/widgets-release.aar/b5b28652043692fc51677ea092a09186/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:icon
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:allowBackup
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:theme
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/kunalmalhotra/Desktop/Introducing-NativeScript/Demo/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/d0d01fc8b8c3303eb3092e692457f667/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/60fbf06acc82467158f34c715537bbcd/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/0302a6680b53eccb602f26d03dddf99b/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/a4bc05bfb825af6dc76af4a01b20dbd3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/2912dd6e0d57bef8b17967d2055f81b9/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/bc411d943077791305517edc607571b0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d35a66728fe17b34126c7085fc711a11/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d35a66728fe17b34126c7085fc711a11/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/66408f38d150b3b1b3b7ca0b8c8123ce/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/5555eb892554d3ace2b8d48a8484c1d3/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/f3c6289ec23856dbac66c12100c46321/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/85475e0a05a5136cb03446220e8d78f3/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/kunalmalhotra/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/ca1e322f965538243d0142e6384f5f7d/AndroidManifest.xml:26:9-47
