@@ -75,7 +75,7 @@ In this tutorial we will create a simple app that searches for images on flickr 
 | Android  | iOS |
 | ------------- | ------------- |
 | ![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-NativeScript/master/assets/Screen%20Shot%202018-05-02%20at%2010.23.51%20PM.png?token=AAH1NCCwOlob8vacuGStqwXG-8lVEHTwks5a8z1KwA%3D%3D)| ![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-NativeScript/master/assets/Screen%20Shot%202018-05-02%20at%2010.24.11%20PM.png?token=AAH1NH4AKzWB20M2xqasoEVpOYJTQLkIks5a8z1iwA%3D%3D)  |
-|   |               |
+
 
 ### Getting Started
 
