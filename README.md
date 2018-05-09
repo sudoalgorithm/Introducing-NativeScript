@@ -26,7 +26,7 @@ In order to start this tutorial you need to have the NativeScript CLI (command-l
 
         Verify that the installation was successful by running tns in the terminal. You should see a long list of commands that starts with this section:
 
-        ![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-NativeScript/master/assets/Screen%20Shot%202018-04-30%20at%2012.28.17%20PM.png?token=AAH1NKcpadWx_fAO3TvumUpTRwe3SEFjks5a8A6ywA%3D%3D)
+        ![alt text](https://raw.githubusercontent.com/sudoalgorithm/Introducing-NativeScript/master/assets/Screen%20Shot%202018-04-30%20at%2012.28.17%20PM.png)
 - **Step 3: Install iOS and Android requirements**
     - NativeScript builds truly native iOS and Android apps, and as such, each target platform needs setting up on the development machine. To ease the pain of installing all of these requirements manually, the tns command provides quick-start scripts for Windows and macOS. Let’s look at how they work.
 
