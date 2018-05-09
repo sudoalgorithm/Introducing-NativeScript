@@ -62,7 +62,7 @@ In order to start this tutorial you need to have the NativeScript CLI (command-l
     ```
     sudo ruby -e "$(curl -fsSL https://www.nativescript.org/setup/mac)"
     ```
-    ![alt text](https://raw.github.ibm.com/Kunal-Malhotra1/Introducing-NativeScript/master/assets/Screen%20Shot%202018-04-30%20at%2012.44.18%20PM.png?token=AAH1NOXGryl6kch1crXq-XylGwzf8hxpks5a8BJtwA%3D%3D)
+    ![alt text](https://raw.githubusercontent.com/sudoalgorithm/Introducing-NativeScript/master/assets/Screen%20Shot%202018-04-30%20at%2012.44.18%20PM.png)
 
 - **Step 4: Verify the setup**
 
